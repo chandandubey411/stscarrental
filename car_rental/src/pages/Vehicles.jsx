@@ -95,6 +95,16 @@ export default function Vehicles() {
             </select>
           </div>
 
+          {/* Disclaimer */}
+          <div className="flex items-start gap-3 bg-amber-50 border border-amber-300 rounded-xl px-5 py-4 mb-6">
+            <span className="text-amber-500 text-xl mt-0.5">⚠️</span>
+            <p className="text-amber-800 text-sm leading-relaxed">
+              <span className="font-bold">Note:</span> All vehicles available for rental are approximately{" "}
+              <span className="font-semibold">2 years old</span>. They are well-maintained and in excellent condition.
+              For any specific queries regarding vehicle age or condition, please contact us before booking.
+            </p>
+          </div>
+
           {/* Count */}
           <p className="text-sm text-gray-400 mb-6">
             Showing {displayedCars.length} of {filteredCars.length} vehicles

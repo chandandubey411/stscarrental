@@ -44,7 +44,7 @@ const cars = [
   { id: 3, name: "Swift Petrol", type: "Hatchback", price: 2500, originalPrice: 3000, fuel: "Petrol", transmission: "Manual", seats: 5, ac: true, image: IMG.swift },
   { id: 4, name: "Volvo", type: "Luxury", price: 25000, originalPrice: 30000, fuel: "Diesel", transmission: "Automatic", seats: 5, ac: true, image: IMG.volvo },
   { id: 5, name: "Tata CARVE Petrol", type: "SUV", price: 4500, originalPrice: 5000, fuel: "Petrol", transmission: "Manual", seats: 5, ac: true, image: IMG.curvv },
-  { id: 6, name: "Scorpio Classic S", type: "SUV", price: 5000, originalPrice: 5500, fuel: "Diesel", transmission: "Manual", seats: 7, ac: true, image: IMG.scorpioClassic },
+
   { id: 7, name: "Scorpio Classic S11", type: "SUV", price: 5500, originalPrice: 6000, fuel: "Diesel", transmission: "Manual", seats: 7, ac: true, image: IMG.scorpioClassic },
   { id: 8, name: "Grand i10 Nios CNG", type: "Hatchback", price: 2500, originalPrice: 2700, fuel: "CNG", transmission: "Manual", seats: 5, ac: true, image: IMG.grandi10 },
   { id: 9, name: "Thar", type: "SUV", price: 6000, originalPrice: 6500, fuel: "Diesel", transmission: "Manual", seats: 4, ac: true, image: IMG.thar },
@@ -53,7 +53,7 @@ const cars = [
   { id: 12, name: "Scorpio N Z8 Select", type: "SUV", price: 6500, originalPrice: 7000, fuel: "Diesel", transmission: "Automatic", seats: 7, ac: true, image: IMG.scorpioN_z8select },
   { id: 13, name: "Audi A4", type: "Luxury", price: 13000, originalPrice: 14000, fuel: "Petrol", transmission: "Automatic", seats: 5, ac: true, image: IMG.audiA4 },
   { id: 14, name: "Brazza CNG", type: "SUV", price: 4000, originalPrice: 4500, fuel: "CNG", transmission: "Manual", seats: 5, ac: true, image: IMG.brezza },
-  { id: 15, name: "Baleno Petrol", type: "Hatchback", price: 2500, originalPrice: 3000, fuel: "Petrol", transmission: "Manual", seats: 5, ac: true, image: IMG.baleno },
+
   { id: 16, name: "Creta", type: "SUV", price: 5000, originalPrice: 5500, fuel: "Petrol", transmission: "Automatic", seats: 5, ac: true, image: IMG.creta },
   { id: 17, name: "Verna 2025", type: "Sedan", price: 5000, originalPrice: 5500, fuel: "Petrol", transmission: "Automatic", seats: 5, ac: true, image: IMG.verna },
   { id: 18, name: "Innova Crysta", type: "MUV", price: 7000, originalPrice: 8000, fuel: "Diesel", transmission: "Automatic", seats: 7, ac: true, image: IMG.innovaCrysta },
@@ -74,7 +74,7 @@ const cars = [
   { id: 33, name: "Legender", type: "SUV", price: 14000, originalPrice: null, fuel: "Diesel", transmission: "Automatic", seats: 7, ac: true, image: IMG.legender },
   { id: 34, name: "Kia Seltos", type: "SUV", price: 4500, originalPrice: null, fuel: "Petrol", transmission: "Automatic", seats: 5, ac: true, image: IMG.seltos },
   { id: 35, name: "Grand Vitara 2025", type: "SUV", price: 3500, originalPrice: null, fuel: "Petrol", transmission: "Automatic", seats: 5, ac: true, image: IMG.grandVitara },
-  { id: 36, name: "Baleno", type: "Hatchback", price: 2500, originalPrice: null, fuel: "Petrol", transmission: "Manual", seats: 5, ac: true, image: IMG.baleno },
+
   { id: 37, name: "Scorpio N Automatic", type: "SUV", price: 6000, originalPrice: 6500, fuel: "Diesel", transmission: "Automatic", seats: 7, ac: true, image: IMG.scorpioN_automatic },
   { id: 38, name: "BMW Z4 Roadster", type: "Luxury", price: 15000, originalPrice: 18000, fuel: "Petrol", transmission: "Automatic", seats: 2, ac: true, image: IMG.bmwZ4 },
   { id: 39, name: "BMW 7 Series M760Li", type: "Luxury", price: 28000, originalPrice: 32000, fuel: "Petrol", transmission: "Automatic", seats: 5, ac: true, image: IMG.bmw7 },
