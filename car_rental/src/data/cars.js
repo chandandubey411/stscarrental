@@ -52,7 +52,7 @@ const cars = [
   { id: 2, name: "Brezza CNG", type: "SUV", price: 3500, originalPrice: 4000, fuel: "CNG", transmission: "Manual", seats: 5, ac: true, image: IMG.brezza },
   { id: 3, name: "Swift Petrol", type: "Hatchback", price: 2500, originalPrice: 3000, fuel: "Petrol", transmission: "Manual", seats: 5, ac: true, image: IMG.swift },
   { id: 4, name: "Volvo", type: "Luxury", price: 25000, originalPrice: 30000, fuel: "Diesel", transmission: "Automatic", seats: 5, ac: true, image: IMG.volvo },
-  { id: 5, name: "Tata CARVE Petrol", type: "SUV", price: 4500, originalPrice: 5000, fuel: "Petrol", transmission: "Manual", seats: 5, ac: true, image: IMG.curvv },
+  { id: 5, name: "TATA Curvv Petrol", type: "SUV", price: 4500, originalPrice: 5000, fuel: "Petrol", transmission: "Manual", seats: 5, ac: true, image: IMG.curvv },
 
   { id: 8, name: "Grand i10 Nios CNG", type: "Hatchback", price: 2500, originalPrice: 2700, fuel: "CNG", transmission: "Manual", seats: 5, ac: true, image: IMG.grandi10 },
   { id: 9, name: "Thar", type: "SUV", price: 6000, originalPrice: 6500, fuel: "Diesel", transmission: "Manual", seats: 4, ac: true, image: IMG.thar },
