@@ -1,10 +1,18 @@
+import balenoImg from "../assets/images/baleno.jpg";
+import brezzaImg from "../assets/images/brezza.jpg";
+import grandVitaraImg from "../assets/images/grand_vitara.jpg";
+import jaguarImg from "../assets/images/jaguar.jpg";
+import fortunerImg from "../assets/images/fortuner.jpg";
+import scorpioClassicImg from "../assets/images/scorpioClassic.jpg";
+import ciazImg from "../assets/images/ciaz.jpg";
+
 const IMG = {
-  baleno: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/2022_Maruti_Suzuki_Baleno_Alpha_%28India%29_front_view.jpg/960px-2022_Maruti_Suzuki_Baleno_Alpha_%28India%29_front_view.jpg",
-  brezza: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/2024_Suzuki_Vitara_%284th_generation%29_DSC_6083.jpg/960px-2024_Suzuki_Vitara_%284th_generation%29_DSC_6083.jpg",
+  baleno: balenoImg,
+  brezza: brezzaImg,
   swift: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Suzuki_Swift_%282024%29_hybrid_DSC_6076.jpg/960px-Suzuki_Swift_%282024%29_hybrid_DSC_6076.jpg",
   volvo: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Volvo_XC90_T8_AWD_Plug-in_Hybrid_Plus_%28II%2C_2._Facelift%29_%E2%80%93_f_03102025.jpg/960px-Volvo_XC90_T8_AWD_Plug-in_Hybrid_Plus_%28II%2C_2._Facelift%29_%E2%80%93_f_03102025.jpg",
   curvv: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2025_Tata_Curvv_Creative%2B_S_Petrol_%28India%29_front_view.png/960px-2025_Tata_Curvv_Creative%2B_S_Petrol_%28India%29_front_view.png",
-  scorpioClassic: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mahindra_Scorpio_GLX_2.6_m-Hawk_2011_%2836756517492%29.jpg/960px-Mahindra_Scorpio_GLX_2.6_m-Hawk_2011_%2836756517492%29.jpg",
+  scorpioClassic: scorpioClassicImg,
   grandi10: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hyundai_i10_1.0_Intro_%28III%29_%E2%80%93_f_03012021.jpg/960px-Hyundai_i10_1.0_Intro_%28III%29_%E2%80%93_f_03012021.jpg",
   thar: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mahindra_Thar_SUV_in_%22Red_Rage%22_color_at_Ashiana_Brahmanda%2C_East_Singbhum_India_%28Ank_Kumar%2C_Infosys_limited%29_02_%28cropped%29.jpg/960px-Mahindra_Thar_SUV_in_%22Red_Rage%22_color_at_Ashiana_Brahmanda%2C_East_Singbhum_India_%28Ank_Kumar%2C_Infosys_limited%29_02_%28cropped%29.jpg",
   scorpioN_manual: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2024_Mahindra_Scorpio_Z8L_front.jpg/960px-2024_Mahindra_Scorpio_Z8L_front.jpg",
@@ -16,12 +24,12 @@ const IMG = {
   innovaCrysta: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/2022_Toyota_Kijang_Innova_2.4_G_GUN142R_%2820220302%29.jpg/960px-2022_Toyota_Kijang_Innova_2.4_G_GUN142R_%2820220302%29.jpg",
   glanza: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Suzuki_Baleno_front_20071004.jpg/960px-Suzuki_Baleno_front_20071004.jpg",
   fronx: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/2024_Suzuki_Fronx.jpg/960px-2024_Suzuki_Fronx.jpg",
-  jaguar: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jaguar_F-Pace_AWD_20d_registered_March_2019_1999cc_01_%28cropped%29.jpg/960px-Jaguar_F-Pace_AWD_20d_registered_March_2019_1999cc_01_%28cropped%29.jpg",
+  jaguar: jaguarImg,
   cla200: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Mercedes-Benz_C118_IMG_2673.jpg/960px-Mercedes-Benz_C118_IMG_2673.jpg",
   mercedesC: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Mercedes-Benz_W206_IMG_6380.jpg/960px-Mercedes-Benz_W206_IMG_6380.jpg",
   tharRoxx: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mahindra_Thar_SUV_in_%22Red_Rage%22_color_at_Ashiana_Brahmanda%2C_East_Singbhum_India_%28Ank_Kumar%2C_Infosys_limited%29_02_%28cropped%29.jpg/960px-Mahindra_Thar_SUV_in_%22Red_Rage%22_color_at_Ashiana_Brahmanda%2C_East_Singbhum_India_%28Ank_Kumar%2C_Infosys_limited%29_02_%28cropped%29.jpg",
-  ciaz: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Suzuki_Ciaz_1.4_GL_2016_1_%28Chile%29.jpg/960px-Suzuki_Ciaz_1.4_GL_2016_1_%28Chile%29.jpg",
-  grandVitara: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/2024_Suzuki_Vitara_%284th_generation%29_DSC_6083.jpg/960px-2024_Suzuki_Vitara_%284th_generation%29_DSC_6083.jpg",
+  ciaz: ciazImg,
+  grandVitara: grandVitaraImg,
   endeavour: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ford_Everest_3.0_V6_Turbo_Diesel_4WD_Platinum_%28III%29_%E2%80%93_f_02012026.jpg/960px-Ford_Everest_3.0_V6_Turbo_Diesel_4WD_Platinum_%28III%29_%E2%80%93_f_02012026.jpg",
   venue: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2022_Hyundai_Venue_Preferred_in_Polar_White%2C_Front_Right%2C_09-12-2023.jpg/960px-2022_Hyundai_Venue_Preferred_in_Polar_White%2C_Front_Right%2C_09-12-2023.jpg",
   xuv300: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mahindra_XUV300.jpg/960px-Mahindra_XUV300.jpg",
@@ -36,6 +44,7 @@ const IMG = {
   rollsRoyce: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rolls-Royce_Phantom_VIII_Genf_2018.jpg/960px-Rolls-Royce_Phantom_VIII_Genf_2018.jpg",
   maybach: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mercedes-Maybach_S580_Front_View.jpg/960px-Mercedes-Maybach_S580_Front_View.jpg",
   limousine: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Lincoln_Town_Car_stretch_limousine_-_01.jpg/960px-Lincoln_Town_Car_stretch_limousine_-_01.jpg",
+  fortuner: fortunerImg,
 };
 
 const cars = [
@@ -52,7 +61,7 @@ const cars = [
   { id: 11, name: "Scorpio N Automatic", type: "SUV", price: 6500, originalPrice: 7000, fuel: "Diesel", transmission: "Automatic", seats: 7, ac: true, image: IMG.scorpioN_automatic },
   { id: 12, name: "Scorpio N Z8 Select", type: "SUV", price: 6500, originalPrice: 7000, fuel: "Diesel", transmission: "Automatic", seats: 7, ac: true, image: IMG.scorpioN_z8select },
   { id: 13, name: "Audi A4", type: "Luxury", price: 13000, originalPrice: 14000, fuel: "Petrol", transmission: "Automatic", seats: 5, ac: true, image: IMG.audiA4 },
-  { id: 14, name: "Brazza CNG", type: "SUV", price: 4000, originalPrice: 4500, fuel: "CNG", transmission: "Manual", seats: 5, ac: true, image: IMG.brezza },
+  { id: 14, name: "Brezza CNG", type: "SUV", price: 4000, originalPrice: 4500, fuel: "CNG", transmission: "Manual", seats: 5, ac: true, image: IMG.brezza },
 
   { id: 16, name: "Creta", type: "SUV", price: 5000, originalPrice: 5500, fuel: "Petrol", transmission: "Automatic", seats: 5, ac: true, image: IMG.creta },
   { id: 17, name: "Verna 2025", type: "Sedan", price: 5000, originalPrice: 5500, fuel: "Petrol", transmission: "Automatic", seats: 5, ac: true, image: IMG.verna },
@@ -85,6 +94,7 @@ const cars = [
   { id: 44, name: "Rolls-Royce Phantom VIII", type: "Luxury", price: 75000, originalPrice: 85000, fuel: "Petrol", transmission: "Automatic", seats: 5, ac: true, image: IMG.rollsRoyce },
   { id: 45, name: "Mercedes-Maybach S580", type: "Luxury", price: 45000, originalPrice: 50000, fuel: "Petrol", transmission: "Automatic", seats: 5, ac: true, image: IMG.maybach },
   { id: 46, name: "Lincoln Town Car Stretch Limo", type: "Luxury", price: 60000, originalPrice: 70000, fuel: "Petrol", transmission: "Automatic", seats: 10, ac: true, image: IMG.limousine },
+  { id: 47, name: "Toyota Fortuner", type: "SUV", price: 12000, originalPrice: 13500, fuel: "Diesel", transmission: "Automatic", seats: 7, ac: true, image: IMG.fortuner },
 ].map((car) => ({
   ...car,
   description: `Rent the ${car.name} – a premium ${car.type.toLowerCase()} with ${car.transmission.toLowerCase()} transmission and ${car.fuel} fuel. Comfortable ${car.seats}-seater with AC. Best rates guaranteed.`,
