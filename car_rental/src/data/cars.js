@@ -5,6 +5,7 @@ import jaguarImg from "../assets/images/jaguar.jpg";
 import fortunerImg from "../assets/images/fortuner.jpg";
 import scorpioClassicImg from "../assets/images/scorpioClassic.jpg";
 import ciazImg from "../assets/images/ciaz.jpg";
+import vernaImg from "../assets/images/verna.jpg";
 
 const IMG = {
   baleno: balenoImg,
@@ -20,7 +21,7 @@ const IMG = {
   scorpioN_z8select: "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/Scorpio-N/10818/1755775730308/front-left-side-47.jpg",
   audiA4: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Audi_A4_B9_sedans_%28FL%29_1X7A2441.jpg/960px-Audi_A4_B9_sedans_%28FL%29_1X7A2441.jpg",
   creta: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2022_Hyundai_Creta_1.6_Plus_%28Chile%29_front_view.jpg/960px-2022_Hyundai_Creta_1.6_Plus_%28Chile%29_front_view.jpg",
-  verna: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2019_Hyundai_Accent_1.6L%2C_front_10.8.19.jpg/960px-2019_Hyundai_Accent_1.6L%2C_front_10.8.19.jpg",
+  verna: vernaImg,
   innovaCrysta: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/2022_Toyota_Kijang_Innova_2.4_G_GUN142R_%2820220302%29.jpg/960px-2022_Toyota_Kijang_Innova_2.4_G_GUN142R_%2820220302%29.jpg",
   glanza: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Suzuki_Baleno_front_20071004.jpg/960px-Suzuki_Baleno_front_20071004.jpg",
   fronx: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/2024_Suzuki_Fronx.jpg/960px-2024_Suzuki_Fronx.jpg",
@@ -29,7 +30,7 @@ const IMG = {
   mercedesC: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Mercedes-Benz_W206_IMG_6380.jpg/960px-Mercedes-Benz_W206_IMG_6380.jpg",
   tharRoxx: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mahindra_Thar_SUV_in_%22Red_Rage%22_color_at_Ashiana_Brahmanda%2C_East_Singbhum_India_%28Ank_Kumar%2C_Infosys_limited%29_02_%28cropped%29.jpg/960px-Mahindra_Thar_SUV_in_%22Red_Rage%22_color_at_Ashiana_Brahmanda%2C_East_Singbhum_India_%28Ank_Kumar%2C_Infosys_limited%29_02_%28cropped%29.jpg",
   ciaz: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Suzuki_Ciaz_1.4_GL_2016_1_%28Chile%29.jpg/960px-Suzuki_Ciaz_1.4_GL_2016_1_%28Chile%29.jpg",
-  grandVitara: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/2024_Suzuki_Vitara_%284th_generation%29_DSC_6083.jpg/960px-2024_Suzuki_Vitara_%284th_generation%29_DSC_6083.jpg",
+  grandVitara: grandVitaraImg,
   endeavour: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ford_Everest_3.0_V6_Turbo_Diesel_4WD_Platinum_%28III%29_%E2%80%93_f_02012026.jpg/960px-Ford_Everest_3.0_V6_Turbo_Diesel_4WD_Platinum_%28III%29_%E2%80%93_f_02012026.jpg",
   venue: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2022_Hyundai_Venue_Preferred_in_Polar_White%2C_Front_Right%2C_09-12-2023.jpg/960px-2022_Hyundai_Venue_Preferred_in_Polar_White%2C_Front_Right%2C_09-12-2023.jpg",
   xuv300: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mahindra_XUV300.jpg/960px-Mahindra_XUV300.jpg",
